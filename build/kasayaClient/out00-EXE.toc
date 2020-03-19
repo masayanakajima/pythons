@@ -1,0 +1,9 @@
+('C:\\Python\\dist\\kasayaClient.exe',
+ False,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1436606205L)

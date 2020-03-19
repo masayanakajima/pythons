@@ -1,0 +1,9 @@
+('C:\\Python\\dist\\mirage.exe',
+ False,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1434656924L)

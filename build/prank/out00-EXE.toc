@@ -1,0 +1,9 @@
+('C:\\Python\\dist\\prank.exe',
+ False,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1446359032L)

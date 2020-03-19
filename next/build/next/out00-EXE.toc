@@ -1,0 +1,9 @@
+('C:\\Python\\next\\dist\\next.exe',
+ False,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1433521902L)

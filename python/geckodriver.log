@@ -1,0 +1,19 @@
+1538414371804	geckodriver	INFO	geckodriver 0.21.0
+1538414371881	geckodriver	INFO	Listening on 127.0.0.1:48307
+ln: failed to create symbolic link '/home/masaya/snap/firefox/common/snap/firefox/common/Documents': No such file or directory
+ln: failed to create symbolic link '/home/masaya/snap/firefox/common/snap/firefox/common/Desktop': No such file or directory
+ln: failed to create symbolic link '/home/masaya/snap/firefox/common/snap/firefox/common/Downloads': No such file or directory
+ln: failed to create symbolic link '/home/masaya/snap/firefox/common/snap/firefox/common/Music': No such file or directory
+ln: failed to create symbolic link '/home/masaya/snap/firefox/common/snap/firefox/common/Pictures': No such file or directory
+ln: failed to create symbolic link '/home/masaya/snap/firefox/common/snap/firefox/common/Videos': No such file or directory
+ln: failed to create symbolic link '/home/masaya/snap/firefox/common/snap/firefox/common/Templates': No such file or directory
+1538414377516	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KiTkdH0CE4Ry"
+ln: failed to create symbolic link '/home/masaya/snap/firefox/common/snap/firefox/common/Documents': No such file or directory
+ln: failed to create symbolic link '/home/masaya/snap/firefox/common/snap/firefox/common/Desktop': No such file or directory
+ln: failed to create symbolic link '/home/masaya/snap/firefox/common/snap/firefox/common/Downloads': No such file or directory
+ln: failed to create symbolic link '/home/masaya/snap/firefox/common/snap/firefox/common/Music': No such file or directory
+ln: failed to create symbolic link '/home/masaya/snap/firefox/common/snap/firefox/common/Pictures': No such file or directory
+ln: failed to create symbolic link '/home/masaya/snap/firefox/common/snap/firefox/common/Videos': No such file or directory
+ln: failed to create symbolic link '/home/masaya/snap/firefox/common/snap/firefox/common/Templates': No such file or directory
+Gtk-Message: Failed to load module "canberra-gtk-module"
+Gtk-Message: Failed to load module "canberra-gtk-module"

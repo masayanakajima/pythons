@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" cur="0" cur1="-1" ver="1.3">
+  <placement name="Scene 1" FramesRendered="0" />
+  <placement name="Scene 2" FramesRendered="0" />
+  <global />
+</configuration>

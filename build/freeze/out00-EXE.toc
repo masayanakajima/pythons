@@ -1,0 +1,9 @@
+('C:\\Python\\dist\\freeze.exe',
+ False,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1434240876L)
